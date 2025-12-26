@@ -1,0 +1,7 @@
+__pycache__
+
+attendace/
+
+known_faces/
+
+face_database.json
